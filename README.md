@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @tudorming - Tudor Cristian Mingheras
+- 👀 I’m interested in everything computing related
+- 🌱 I’m currently studying Computer Science at University of Birmingham (last year)
+- 👨‍💻 I worked during the placement year for a company that offered different web-based solutions.
+- 📜 Hard Skills: JavaScript, NodeJS/ExpressJS, VueJS/AngularJS, Java, C/C++, HTML/CSS, SQL/MongoDB
+- 📜 Soft Skills: Teamwork, Positive Attitude, Efficient Communication, Adaptability, Troubleshooting, Team Managing
+- 💞️ I’m looking to collaborate on interesting and innovative projects
+- 📫 How to reach me: personal mail - tudormingheras@yahoo.com
